@@ -1,8 +1,8 @@
 package recovery
 
 import (
-	"framework/pkg/log"
-	"framework/pkg/metric"
+	"github.com/cherry1c/arya-frame/pkg/log"
+	"github.com/cherry1c/arya-frame/pkg/metric"
 	"github.com/go-kit/log/level"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

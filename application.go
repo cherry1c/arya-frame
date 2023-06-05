@@ -1,12 +1,12 @@
 package framework
 
 import (
-	"framework/pkg/auth"
-	"framework/pkg/log"
-	"framework/pkg/metric"
-	"framework/pkg/recovery"
-	"framework/pkg/server"
-	"framework/pkg/trace"
+	"github.com/cherry1c/arya-frame/pkg/auth"
+	"github.com/cherry1c/arya-frame/pkg/log"
+	"github.com/cherry1c/arya-frame/pkg/metric"
+	"github.com/cherry1c/arya-frame/pkg/recovery"
+	"github.com/cherry1c/arya-frame/pkg/server"
+	"github.com/cherry1c/arya-frame/pkg/trace"
 	syslog "log"
 )
 
