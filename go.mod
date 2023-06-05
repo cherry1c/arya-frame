@@ -1,4 +1,4 @@
-module framework
+module github.com/cherry1c/arya-frame
 
 go 1.20
 
